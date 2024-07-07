@@ -1,2 +1,0 @@
-# Automatization
-Автоматизация на Python
